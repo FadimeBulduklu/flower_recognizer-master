@@ -1,0 +1,8 @@
+0 Nilüfer
+1 Lale
+2 Ayçiçeği
+3 Manolya
+4 Gül
+5 Nergis
+6 Papatya
+7 Karanfil
